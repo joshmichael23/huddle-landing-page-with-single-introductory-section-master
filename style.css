@@ -33,6 +33,7 @@ main{
 }
 
 .content{
+    width:100%;
     display:flex;
 }
 
@@ -200,6 +201,7 @@ p{
     .main-content{
         height:100%;
         display:flex;
+        margin-right: 15%;
         align-items:start;
         flex-direction: column;
         justify-content: center;
